@@ -1,0 +1,18 @@
+# Dependencias
+/node_modules
+/.pnp
+.pnp.js
+
+# Compilación de NestJS
+/dist
+
+# Variables de entorno con credenciales
+.env
+.env.production
+
+# Logs
+npm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
